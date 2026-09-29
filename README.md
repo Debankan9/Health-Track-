@@ -19,11 +19,7 @@ https://health-track-theta.vercel.app/
 ---
 
 ## 🛠 Technologies Used
-
-* HTML
-* CSS
-* JavaScript
-* Vercel
+Frontend: NextJS, Typescript, Tailwind CSS, Javascript Backend: NodeJS (ExpressJS), Python Hosting: AWS (EC2) Database: MongoDB API: Mapbox, Weather API, Payment Gateway (Razor Pay), Google translator. AI: Custom itinerary generator (integration with LLM for chatbot guide)
 
 ---
 
